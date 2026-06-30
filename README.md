@@ -95,7 +95,7 @@ This script will install all required packages with a beautiful progress bar.
 3️⃣ Download SHR-MITM (if not already)
 
 ```bash
-git clone 
+git clone https://github.com/OFFICIALcybersatyam27/MITM-attack-.git
 cd MITM-attack 
 ```
 
