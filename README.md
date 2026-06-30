@@ -96,7 +96,7 @@ This script will install all required packages with a beautiful progress bar.
 
 ```bash
 git clone 
-cd SHR-MITM
+cd MITM-attack 
 ```
 
 ⚠️ FIRST PASTE THIS 
