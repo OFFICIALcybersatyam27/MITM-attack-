@@ -18,7 +18,7 @@ YouTube: https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?color=1BF726&width=600&height=28&lines=OFFICIAL_cyber_satyam27-MITM+Advanced+Framework;No+root+required+;MAN+IN+THE+MIDDLE+ATTACK+SIMULATOR+;MADED+BY+%F0%92%89%AD+%E1%8E%A0%E1%B4%80%CA%80%E1%B4%8B%E3%85%A4%E1%8F%99%E1%B4%87%C9%B4%E1%B4%8F%E1%B4%8D%E3%85%A4%C3%97%CD%9C%C3%97+%7C+%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84+%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8F%F0%9D%90%87%F0%9D%90%80+%F0%92%89%AD" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF726&width=600&height=28&lines=OFFICIAL_cyber_satyam27-MITM+Advanced+Framework;No+root+required+;MAN+IN+THE+MIDDLE+ATTACK+SIMULATOR+;MADED+BY+%F0%92%89%AD+%E1%8E%A0%E1%B4%80%CA%80%E1%B4%8B%E3%85%A4%E1%8F%99%E1%B4%87%C9%B4%E1%B4%8F%E1%B4%8D%E3%85%A4%C3%97%CD%9C%C3%97+%7C+%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84+%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8F%F0%9D%90%87%F0%9D%90%80+%F0%92%89%AD" alt="Typing SVG">
 </p>
 
 <br>
